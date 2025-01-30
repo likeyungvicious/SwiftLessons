@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EE0CFEDC-2269-47FC-BAD8-021C1EF1DA71"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE703379-CAA3-41A9-A28A-29E5E20FF183"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HelloWorld/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "DE703379-CAA3-41A9-A28A-29E5E20FF183 - 273b5b9f818b5c06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWorld.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; HelloWorld.ViewController"
+                  moduleName = "HelloWorld.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonbelyj/Desktop/myCodeProjects/UIKitLessons/HelloWorld/HelloWorld/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "DE703379-CAA3-41A9-A28A-29E5E20FF183 - fcf0fbdd7e5065f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWorld.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; HelloWorld.ViewController"
+                  moduleName = "HelloWorld.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonbelyj/Desktop/myCodeProjects/UIKitLessons/HelloWorld/HelloWorld/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10">
+               </Location>
+               <Location
+                  uuid = "DE703379-CAA3-41A9-A28A-29E5E20FF183 - be4a1fd1f3b941d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWorld.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;HelloWorld.ViewController&gt;"
+                  moduleName = "HelloWorld.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonbelyj/Desktop/myCodeProjects/UIKitLessons/HelloWorld/HelloWorld/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "DE703379-CAA3-41A9-A28A-29E5E20FF183 - ffbb9c9d0f96ad40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWorld.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;HelloWorld.ViewController&gt;"
+                  moduleName = "HelloWorld.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonbelyj/Desktop/myCodeProjects/UIKitLessons/HelloWorld/HelloWorld/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10">
+               </Location>
+               <Location
+                  uuid = "DE703379-CAA3-41A9-A28A-29E5E20FF183 - 83195659193e70d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWorld.ViewController.__deallocating_deinit"
+                  moduleName = "HelloWorld.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonbelyj/Desktop/myCodeProjects/UIKitLessons/HelloWorld/HelloWorld/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
